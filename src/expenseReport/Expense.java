@@ -5,9 +5,9 @@ public class Expense {
   public Type type;
   public int amount;
 
-  public Expense(Type type, int amount) {
+  public Expense(Type type, int amountn) {
     this.type = type;
-    this.amount = amount;
+    this.amount = amountn;
   }
 
 
